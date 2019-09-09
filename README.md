@@ -11,4 +11,4 @@ Framework: React (app and router)
 Library: Redux
 
 Run: 1 - clone or download project. 2 - cd to project path. 3 - yarn install 4 - yarn start 
-Link: localhost:3000
+
